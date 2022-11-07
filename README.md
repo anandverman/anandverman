@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anand Verman.
-- 👀 I’m interested in C/C++, Python and Software Development.
+- 👀 I’m interested in  Software Development in C/C++ and Python.
 - 🌱 I’m currently learning and trying to get more proficient in Data Structures and Algorithms.
 - 💞️ I’m looking to collaborate on Software Projects in C/C++,Python.
 - 📫 How to reach me: anandverman100@gmail.com
